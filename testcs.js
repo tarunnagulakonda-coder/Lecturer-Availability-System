@@ -1,8 +1,8 @@
 // Initial Mock Data
 const initialLecturers = [
-    { id: "prof_smith", name: "Dr. Smith", status: "Available", cabin: "Room 101", pass: "pass123" },
-    { id: "prof_doe", name: "Prof. Doe", status: "In Class", cabin: "Lab 2", pass: "pass456" },
-    { id: "dr_jones", name: "Dr. Jones", status: "Absent", cabin: "Block C", pass: "pass789" }
+    { id: "prof_gowtham", name: "Dr.gowtham singh", status: "Available", cabin: "ECE-2nd floor", pass: "pass123" },
+    { id: "prof_dhinesh", name: "Prof. dhinesh", status: "In Class", cabin: "ECE-lab2", pass: "pass456" },
+    { id: "dr_bramha", name: "Dr. Bramha reddy", status: "Absent", cabin: "CSE-1st floor", pass: "pass789" }
 ];
 
 // Initialize State from LocalStorage or default
